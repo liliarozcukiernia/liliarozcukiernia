@@ -1,0 +1,117 @@
+* {
+   margin: 2%;
+   padding: 0%;
+   font-family: Playfair;
+   box-sizing: border-box
+}
+
+body {
+  background-color: white
+}
+
+#wrapper {
+    max-width: 1000px
+    margin: 0 auto;
+    background-color: white;
+}
+
+header img {
+    width: 35%;
+    display: block;
+}
+
+nav {
+    background-color: palevioletred
+}
+nav a {}
+a.menu {
+    display: inline-block;
+    width: 20%;
+    padding: 0px 10px 0px 10px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px
+}
+a.menu:hover {
+    border-bottom: 5px solid pink
+}
+article {
+    margin-top:30px;
+    
+}
+
+article h1 {
+    font-size:40px;
+    text-align: center;
+    margin: 0 10% 10px;
+    padding-bottom: 17px;
+    border-bottom: 3px solid palevioletred
+}
+
+img.left {
+    float:left;
+     padding: 0px 70px;
+    width: 25%;
+    border-radius: 50% 50%
+    
+}
+
+article p {
+     text-align: justify;
+    line-height: 25px;
+    font-size: 15px;
+    padding: 15px 0;
+
+}
+
+footer {
+    height: 40px;
+    background-color: palevioletred;
+    color: white;
+    line-height: 40px;
+    margin-top: 70px;
+    text-align: center;
+}
+
+header img {
+   border-width: 5px 
+    
+}
+
+img.torty {
+     float:center;
+    padding: 10px;
+    width: 95%;
+    
+}
+   
+    img.logo {
+    float:center;
+    padding: 0px;
+    width: 95%;     
+}
+
+img.ciastka {
+     float:center;
+    padding: 0px;
+    width: 97%;
+    
+}
+
+ img.zdj1 {
+     float:center;
+    padding: 100px 0px;
+    width: 100%;
+}
+
+#zegar {
+text-align: right;
+   color: darkgreen
+}
+
+#kalendarz { 
+    text-align: right;
+    color: darkgreen 
+
+}
